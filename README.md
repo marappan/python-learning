@@ -1,2 +1,1 @@
-# python-learning
-learning python repo
+Python day-1
